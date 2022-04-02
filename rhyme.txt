@@ -1,0 +1,62 @@
+There was a developer who wasted a bit.
+I dunno why he wasted that bit,
+Perhaps he'll quit.
+
+There was a developer who wasted a byte,
+It's rotated and shifted from side to side.
+He wasted the byte to save the bit.
+But I dunno why he wasted that bit -
+Perhaps he'll quit.
+
+There was a developer who wasted a short;
+Oh lord, don't waste a short!
+He wasted the short to save the byte.
+It's rotated and shifted from side to side.
+He wasted the byte to save the bit.
+But I dunno why he wasted that bit -
+Perhaps he'll quit.
+
+There was a developer who wasted an int.
+What a sint! He wasted an int!
+He wasted the int to save the short...
+He wasted the short to save the byte.
+It's rotated and shifted from side to side.
+He wasted the byte to save the bit.
+But I dunno why he wasted that bit -
+Perhaps he'll quit.
+
+There was a developer who wasted a long.
+How wrong! He wasted a long!
+He wasted the long to save the int...
+He wasted the int to save the short...
+He wasted the short to save the byte
+It's rotated and shifted from side to side.
+He wasted the byte to save the bit.
+But I dunno why he wasted that bit -
+Perhaps he'll quit.
+
+There was a developer who wasted a double.
+Just round in trouble and waste a double!
+He wasted the double to save the long...
+He wasted the long to save the int...
+He wasted the int to save the short...
+He wasted the short to save the byte.
+It's rotated and shifted from side to side.
+He wasted the byte to save the bit.
+But I dunno why he wasted that bit -
+Perhaps he'll quit.
+
+There was a developer who wasted the RAM.
+I don't give a damn why he wasted the RAM!
+He wasted the RAM to save the double...
+He wasted the double to save the long...
+He wasted the long to save the int...
+He wasted the int to save the short...
+He wasted the short to save the byte.
+It's rotated and shifted from side to side.
+He wasted the byte to save the bit.
+But I dunno why he wasted that bit -
+Perhaps he'll quit.
+
+There was a developer who wasted the cloud -
+He's fired because he wasn't allowed.
