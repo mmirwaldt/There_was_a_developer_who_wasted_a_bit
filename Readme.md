@@ -2,7 +2,7 @@
 
 ### Where is the rhyme?
 
-It's here:
+It's here: https://github.com/mmirwaldt/There_was_a_developer_who_wasted_a_bit/blob/master/rhyme.txt
 
 ### What is this?
 
